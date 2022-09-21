@@ -41,3 +41,46 @@ INFO:werkzeug:[33mPress CTRL+C to quit[0m
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 118-226-684
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-583-977
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/loader/view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 119-598-855
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/main/view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 142-246-555
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/functions.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 838-066-208
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/loader/view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 642-418-435
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/loader/view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 484-322-131
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/loader/view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 102-674-462
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/loader/view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 144-775-773
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/loader/view.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 110-035-331
+INFO:werkzeug: * Detected change in '/home/linkolnakakvant/PycharmProjects/HW_12/main/view.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 785-972-417
